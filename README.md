@@ -18,10 +18,9 @@ This project is a job board application designed for college students to get on-
 ## Technologies Used
 
 - Frontend: React
-- Backend: Node.js, Express.js
+- Backend: Node.js
 - Database: MongoDB
 - Authentication: JSON Web Tokens (JWT)
-- Email Notifications: Nodemailer
 - Deployment: 000webhost
 
 ## Project Structure
