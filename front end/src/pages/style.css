@@ -1,0 +1,29 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    background-image: url(bg3.jpg);
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  li {
+    margin: 10px 0;
+  }
+  
+  @media (max-width: 600px) {
+    h1, h2 {
+      font-size: 1.5rem;
+    }
+  
+    li {
+      font-size: 1rem;
+    }
+  
+    input, button {
+      width: 100%;
+    }
+  }
+  
