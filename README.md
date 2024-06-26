@@ -22,7 +22,7 @@ This project is a job board application designed for college students to get on-
 - Database: MongoDB
 - Authentication: JSON Web Tokens (JWT)
 - Email Notifications: Nodemailer
-- Deployment: Netlify
+- Deployment: 000webhost
 
 ## Project Structure
 
